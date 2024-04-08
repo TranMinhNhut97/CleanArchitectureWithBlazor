@@ -16,4 +16,8 @@
     <ProjectReference Include="..\CoffeeShop.Domain\CoffeeShop.Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Common\Mapping\" />
+  </ItemGroup>
+
 </Project>
